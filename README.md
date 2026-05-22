@@ -1,7 +1,6 @@
-# OAuth Integration — Lab 3
+# OAuth Integration
 
-A written reflection on real-world OAuth 2.0 vulnerabilities and security 
-considerations for production implementations.
+A written reflection on real-world OAuth 2.0 vulnerabilities and security considerations for production implementations.
 
 ## Reading Assignment
 
